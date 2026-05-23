@@ -5,8 +5,8 @@
   body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: #f2f5f3;
-    color: #1f2933;
+    background: #209c49;
+    color: #3675b4;
   }
   
   .topo {
@@ -57,8 +57,8 @@
   }
   
   .card {
-    background: white;
-    border-left: 6px solid #0969da;
+    background: rgb(195, 12, 12);
+    border-left: 6px solid #375e8b;
     border-radius: 16px;
     padding: 18px;
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
